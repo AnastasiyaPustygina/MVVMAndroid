@@ -46,13 +46,6 @@
         android:textSize="16sp"
         android:layout_marginBottom="5dp"/>
 
-    <TextView
-        android:id="@+id/capsuleStatus"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:text="Статус: -"
-        android:textSize="16sp"
-        android:layout_marginBottom="5dp"/>
 
     <TextView
         android:id="@+id/capsuleDetails"

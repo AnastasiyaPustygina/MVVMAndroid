@@ -48,7 +48,6 @@ public class MainActivity extends AppCompatActivity {
                 // Обновляем UI с полученными данными о капсуле
                 binding.capsuleSerial.setText(capsule.getSerial());
                 binding.capsuleType.setText(capsule.getType());
-                binding.capsuleStatus.setText(capsule.getStatus());
                 binding.capsuleDetails.setText(capsule.getDetails());
             }
         });
